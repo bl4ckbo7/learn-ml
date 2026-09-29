@@ -1,1 +1,1 @@
-# Personal Notes on ML and Deep Learning
+# Personal Notes on ML and Deep Learning.
